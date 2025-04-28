@@ -1,38 +1,56 @@
-% Talk Title
-% Your Name <your@email>
+% DIY Keyboards
+% Robert Ward <robert@rtward.com>
 %![](static/qrcode.png)<br/>Talk: [${TALK_URL}](${TALK_URL})<br/>Repo: [${REPO_URL}](${REPO_URL})
 
-# Important Header
+# DIY Keyboards
 
-## First Page
+## Or
 
-- My
-- Talk
-- Outline
+## How I learned to stop worrying and love the blinky lights
 
-## Content Page
+# Why?
 
-Some important info
+![](static/but-why.jpg)
 
 ::: notes
 
-Some speaker notes here
+ - Keyboards aren't expensive
+ - They're pretty reliable
+ - Off the shelf stuff is fine
 
 :::
 
-# Next Big Section
+## Because
 
-## Content Page 2
+## RSI
 
-An important image
+## Custom Layouts
 
-![](https://placecats.com/200/300)
+## Macros
 
-# The End
+## Layers
+
+# Okay I'm Convinced
+
+## How?
+
+ - Plan your layout
+ - Plan your accessories
+ - Select a controller
+ - Select a shield (maybe)
+ - Plan your matrix
+ - Wire your keyboard
+ - Configure your firmware
+ - ???
+ - Profit!
+
+# Questions?
+
+![](static/but-why-male-models.jpg)
 
 ---
 
-Your Name <your@email>
+Robert Ward <robert@rtward.com>
 
 ![](static/qrcode.png)
 
