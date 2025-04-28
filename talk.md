@@ -35,12 +35,30 @@
 ## How?
 
  - Plan your layout
- - Plan your accessories
- - Select a controller
- - Select a shield (maybe)
+    - Rows / Cols
+    - Thumb Keys
  - Plan your matrix
+   - Min rows / cols
+ - Plan your accessories
+   - Screens
+   - RGB
+   - Trackball
+   - Pointer
+   - Encoder
+   - ?
+ - Select a controller
+   - Wired or Wireless
+   - Num accessories
+ - Select a shield (maybe)
  - Wire your keyboard
+   - Hand wiring
+   - Off the shelf PCB
+   - Semi-custom
  - Configure your firmware
+   - QMK
+   - Via
+   - Vial
+   - ZMK
  - ???
  - Profit!
 
