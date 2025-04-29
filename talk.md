@@ -8,31 +8,113 @@
 
 ## How I learned to stop worrying and love the blinky lights
 
+![](static/hackers-keyboard.png)
+
 # Why?
 
 ![](static/but-why.jpg)
 
-::: notes
+## Cheaper?
 
- - Keyboards aren't expensive
- - They're pretty reliable
- - Off the shelf stuff is fine
+. . .
 
-:::
+no
+
+## More Reliable?
+
+. . .
+
+no
+
+## Better?
+
+. . .
+
+maybe?
+
+## More Fun?
+
+. . .
+
+definitely
 
 ## Because
 
 ## RSI
 
+::: notes
+
+More an argument for ergo
+
+:::
+
 ## Custom Layouts
+
+::: notes
+
+Want to try out DVORAK or Colemak or Workman?
+
+:::
 
 ## Macros
 
+::: notes
+
+Your keybaord can do more than 1 press = 1 letter
+
+:::
+
 ## Layers
+
+::: notes
+
+Change your whole layout with one key
+
+:::
+
+## It's Cool
+
+::: notes
+
+Lets be honest
+
+:::
 
 # Okay I'm Convinced
 
-## How?
+# Parts of a Keyboard
+
+## Key Matrix
+
+![](static/simple-matrix.svg)
+
+::: notes
+
+
+
+:::
+
+## Shield
+
+## Accessories
+
+## Microcontroller
+
+## Firmware
+
+## Design your Keyboard
+
+Cosmos
+
+https://ryanis.cool/cosmos/
+
+## Design your Keyboard
+
+![](static/keyboard%20drawing.jpg)
+
+## Plan your wiring
+
+## Plan your 
 
  - Plan your layout
     - Rows / Cols
