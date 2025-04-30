@@ -84,23 +84,71 @@ Lets be honest
 
 # Parts of a Keyboard
 
-## Key Matrix
+## Keycaps
 
-![](static/simple-matrix.svg)
+![](static/keycaps.webp)
 
 ::: notes
 
+Starting with the most important part, obviously.
 
+So many options
+
+:::
+
+## Switches
+
+![](static/mx-switch.webp)
+![](static/choc-switch.jpg)
+
+::: notes
+
+Two basic options, MX or Choc
+
+Lots of other options though.
+
+:::
+
+## Key Matrix
+
+![](static/matrix.png)
+
+::: notes
+
+Columns are powered one at a time and the rows are all read at once
+
+Done hundreds of times per second
 
 :::
 
 ## Shield
 
+![](static/split-pcb.jpg)
+
+::: notes
+
+If you're hand wiring, then this may not apply, but for premade PCBs you can select an existing wiring diagram.
+
+:::
+
 ## Accessories
+
+- Encoders
+- Trackballs / Trackpads / Pointers
+- Screens
+- RGB
+- ???
 
 ## Microcontroller
 
+- Wired or Wireless
+- How many inputs?
+
 ## Firmware
+
+- Wired or Wireless
+
+# Building a Keyboard
 
 ## Design your Keyboard
 
