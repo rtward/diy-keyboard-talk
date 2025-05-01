@@ -144,9 +144,15 @@ If you're hand wiring, then this may not apply, but for premade PCBs you can sel
 - Wired or Wireless
 - How many inputs?
 
+- Pro Micro is the most common format
+- Nice!Nano for Wireless
+
 ## Firmware
 
 - Wired or Wireless
+- ZMK for Wireless
+- QMK for Wired
+- Lots of offshoots of QMK
 
 # Building a Keyboard
 
