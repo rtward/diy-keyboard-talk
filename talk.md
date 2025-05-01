@@ -166,6 +166,14 @@ https://ryanis.cool/cosmos/
 
 ![](static/keyboard%20drawing.jpg)
 
+## Pick you switches
+
+::: notes
+
+might not be important if you're doing hot swaps
+
+:::
+
 ## Plan your wiring
 
 ::: notes
@@ -175,6 +183,8 @@ you'll need num rows + num cols inputs on your board, so minimizing is good
 also consider difficulty of wiring
 
 also consider thumb keys if doing an ergo
+
+hot swap vs soldered in
 
 :::
 
@@ -237,6 +247,14 @@ less accessory support
 community not quite as big
 
 making rapid progress
+
+:::
+
+## Cosmetics
+
+::: notes
+
+case, tenting, etc.
 
 :::
 
