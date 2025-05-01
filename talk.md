@@ -168,35 +168,87 @@ https://ryanis.cool/cosmos/
 
 ## Plan your wiring
 
-## Plan your 
+::: notes
 
- - Plan your layout
-    - Rows / Cols
-    - Thumb Keys
- - Plan your matrix
-   - Min rows / cols
- - Plan your accessories
-   - Screens
-   - RGB
-   - Trackball
-   - Pointer
-   - Encoder
-   - ?
- - Select a controller
-   - Wired or Wireless
-   - Num accessories
- - Select a shield (maybe)
- - Wire your keyboard
-   - Hand wiring
-   - Off the shelf PCB
-   - Semi-custom
- - Configure your firmware
-   - QMK
-   - Via
-   - Vial
-   - ZMK
- - ???
- - Profit!
+you'll need num rows + num cols inputs on your board, so minimizing is good
+
+also consider difficulty of wiring
+
+also consider thumb keys if doing an ergo
+
+:::
+
+## Plan your accessories
+
+::: notes
+
+make sure you know how many inputs you need
+
+check out com protocols like i2c or spi, which can be shared in some cases
+
+:::
+
+## Plan your controller
+
+::: notes
+
+wired or wireless is the big question
+
+also look at firmware compatibility
+
+also look at number and types of IO ports
+
+:::
+
+## PCB / Shield vs Hand Wiring
+
+::: notes
+
+shield = easier
+
+hand wiring = more customization
+
+:::
+
+## Setup your Firmware
+
+## QMK
+
+::: notes
+
+most popular
+
+mostly used for wired builds
+
+lots of spinoffs
+
+vial etc.
+
+:::
+
+## ZMK
+
+::: notes
+
+mostly used for wireless builds
+
+less accessory support
+
+community not quite as big
+
+making rapid progress
+
+:::
+
+## Proft!
+
+::: notes
+
+You've got a cool ass keyboard now
+
+You can spend the next few months tweaking the keymap to be just what you want
+
+:::
 
 # Questions?
 
