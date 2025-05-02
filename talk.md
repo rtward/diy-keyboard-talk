@@ -176,7 +176,7 @@ Choc are low-profile if you're trying to build a smaller board
 
 ## Accessories
 
-![](static/encocder.webp)
+![](static/encoder.webp)
 
 ## Accessories
 
@@ -388,6 +388,24 @@ cp my-keyboard.u2f /var/run/media/rtward/NICENANO
 
 ![](static/zmk-configurator.png)
 
+## ZMK
+
+Demo Time
+
+## ZMK
+
+::: incremental 
+
+ 1. Find a keyboard that's close
+ 2. Copy the board over
+ 3. Edit the physical layout (.dtsi)
+ 3. Edit the sides if split
+ 3. Edit the board for accessories
+ 3. Update your build.yaml
+ 3. Push to GitHub
+
+:::
+
 # Contrats!
 
 ## Cosmetics
@@ -398,7 +416,9 @@ case, tenting, etc.
 
 :::
 
-## Proft!
+## (No) Proft!
+
+![](static/cowboy-bebop.webp)
 
 ::: notes
 
@@ -407,17 +427,6 @@ You've got a cool ass keyboard now
 You can spend the next few months tweaking the keymap to be just what you want
 
 :::
-
-# Links
-
- - https://skree.us/
- - https://www.littlekeyboards.com/
- - https://www.aliexpress.us/
- - https://ryanis.cool/cosmos/
- - https://config.qmk.fm/
- - https://nickcoutsos.github.io/keymap-editor/
- - https://nickcoutsos.github.io/keymap-layout-tools/
- - https://zmk-physical-layout-converter.streamlit.app/
 
 # Questions?
 
