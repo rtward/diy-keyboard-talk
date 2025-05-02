@@ -51,6 +51,7 @@ jobs:
             --slide-level 2
             --standalone
             --self-contained 
+            --css static/custom.css
             -t revealjs
             -V theme=night
             -V revealjs-url=reveal.js
