@@ -406,17 +406,9 @@ Demo Time
 
 :::
 
-# Contrats!
+# Congrats!
 
-## Cosmetics
-
-::: notes
-
-case, tenting, etc.
-
-:::
-
-## (No) Proft!
+## Congrats!
 
 ![](static/cowboy-bebop.webp)
 
@@ -425,6 +417,42 @@ case, tenting, etc.
 You've got a cool ass keyboard now
 
 You can spend the next few months tweaking the keymap to be just what you want
+
+:::
+
+# Advice
+
+## Macro Pad
+
+![](static/macro-pad.jpg)
+
+::: notes
+
+Build a macro pad first.
+
+It's basically all the same work, but much easier.
+
+:::
+
+## Experiment
+
+![](static/experiment.jpg)
+
+::: notes
+
+Play around with designs and keymaps, find what works for you.
+
+:::
+
+## Commit
+
+![](static/handcuffs.jpg)
+
+::: notes
+
+Stay committed to using your new board and trying new layouts.
+
+You'll be surprised how quickly you can adapt.
 
 :::
 
