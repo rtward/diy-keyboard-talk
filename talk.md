@@ -96,17 +96,11 @@ Lets be honest
 
 ![](static/cosmos-screenshot.png){ height=100% }
 
-Cosmos - https://ryanis.cool/cosmos/
-
 ## Design your Keyboard
 
 ![](static/keyboard%20drawing.jpg)
 
 # Collect your parts
-
- - https://skree.us/
- - https://www.littlekeyboards.com/
- - https://www.aliexpress.us/
 
 ## Keycaps
 
@@ -154,27 +148,27 @@ Choc are low-profile if you're trying to build a smaller board
 
 ## Switches
 
-![](static/cherry-switch-table.webp){ height=100% }
+![](static/cherry-switch-table.webp){ height=50% }
 
 ## Switches
 
-![](static/choc-switch-table.png){ height=100% }
+![](static/choc-switch-table.png){ height=50% }
 
 ## Switches
 
-![](static/cherry-switch-tree.webp){ height=100% }
+![](static/cherry-switch-tree.webp){ height=50% }
 
 ## Shield / PCB / Sockets / Hand Wired
 
-![](static/split-pcb.jpg)
+![](static/split-pcb.jpg){ height=50% }
 
 ## Shield / PCB / Sockets / Hand Wired
 
-![](static/skree-pcbs.webp)
+![](static/skree-pcbs.webp){ height=50% }
 
 ## Shield / PCB / Sockets / Hand Wired
 
-![](static/cherry-switch-pcb.png)
+![](static/cherry-switch-pcb.png){ height=50% }
 
 ## Shield / PCB / Sockets / Hand Wired
 
@@ -267,7 +261,7 @@ This is a chonky boy if you want lots of inputs
 
 ## Case
 
-![](static/hand-wired.jpg){ height=250 }
+![](static/3d-printers.webp){ height=250 }
 
 # Shopping List
 
@@ -377,6 +371,13 @@ You've got a cool ass keyboard now
 You can spend the next few months tweaking the keymap to be just what you want
 
 :::
+
+# Links
+
+ - https://skree.us/
+ - https://www.littlekeyboards.com/
+ - https://www.aliexpress.us/
+ - https://ryanis.cool/cosmos/
 
 # Questions?
 
