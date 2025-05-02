@@ -346,6 +346,8 @@ qmk flash -kb sofle -km default
 
 ## ZMK
 
+![](static/zmk-logo.jpg){ height=250 }
+
 ::: notes
 
 mostly used for wireless builds
@@ -357,6 +359,36 @@ community not quite as big
 making rapid progress
 
 :::
+
+## ZMK
+
+ 1. Create a new Github Repo called `zmk-config`
+ 2. `bash -c "$(curl -fsSL https://zmk.dev/setup.sh)"`
+
+## ZMK
+
+![](static/github-actions.png){ height=250 }
+
+## ZMK
+
+![](static/github-actions-2.png){ height=250 }
+
+## ZMK
+
+![](static/github-actions-3.png){ height=250 }
+
+## ZMK
+
+```
+unzip firmware.zip
+cp my-keyboard.u2f /var/run/media/rtward/NICENANO
+```
+
+## ZMK
+
+![](static/zmk-configurator.png){ height=250 }
+
+# Contrats!
 
 ## Cosmetics
 
@@ -383,6 +415,9 @@ You can spend the next few months tweaking the keymap to be just what you want
  - https://www.aliexpress.us/
  - https://ryanis.cool/cosmos/
  - https://config.qmk.fm/
+ - https://nickcoutsos.github.io/keymap-editor/
+ - https://nickcoutsos.github.io/keymap-layout-tools/
+ - https://zmk-physical-layout-converter.streamlit.app/
 
 # Questions?
 
