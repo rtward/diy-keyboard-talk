@@ -274,7 +274,7 @@ This is a chonky boy if you want lots of inputs
  - [x] Microcontroller
  - [x] Case
  
- :::
+:::
 
 # Building a Keyboard
 
