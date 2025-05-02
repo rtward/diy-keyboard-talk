@@ -12,7 +12,7 @@
 
 # Why?
 
-![](static/but-why.jpg){ width=100% }
+![](static/but-why.jpg){ height=100% }
 
 ## Cheaper?
 
@@ -42,6 +42,8 @@ definitely
 
 ## RSI
 
+![](static/hand-cramp.webp){ width=100% }
+
 ::: notes
 
 More an argument for ergo
@@ -58,6 +60,10 @@ Want to try out DVORAK or Colemak or Workman?
 
 ## Macros
 
+```
+(•_•) ( •_•)>⌐■-■ (⌐■_■)
+```
+
 ::: notes
 
 Your keybaord can do more than 1 press = 1 letter
@@ -66,6 +72,8 @@ Your keybaord can do more than 1 press = 1 letter
 
 ## Layers
 
+![](static/layers.png){ width=100% }
+
 ::: notes
 
 Change your whole layout with one key
@@ -73,6 +81,8 @@ Change your whole layout with one key
 :::
 
 ## It's Cool
+
+![](static/hackerman.webp){ height=100% }
 
 ::: notes
 
