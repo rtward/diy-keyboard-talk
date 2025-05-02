@@ -8,7 +8,7 @@
 
 ## How I learned to stop worrying and love the blinky lights
 
-![](static/hackers-keyboard.png)
+![](static/hackers-keyboard.png =200x300)
 
 # Why?
 
