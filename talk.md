@@ -202,20 +202,72 @@ Choc are low-profile if you're trying to build a smaller board
 
 ## Microcontroller / Firmware
 
+::: incremental
+
 - Wired or Wireless
 - How many inputs?
 
-- Pro Micro is the most common format
-- Nice!Nano for Wireless
+:::
 
-- Wired or Wireless
-- ZMK for Wireless
-- QMK for Wired
-- Lots of offshoots of QMK
+## Microcontroller / Firmware
+
+::: incremental
+
+- QMK
+  - The default
+  - Wide support
+  - Lots of offshoot projects (via, vial, etc.)
+  - Mostly for wired boards
+
+:::
+
+## Microcontroller / Firmware
+
+::: incremental
+
+- ZMK 
+  - The upstart
+  - Less board support
+  - More difficult to get started
+  - Mostly for wireless boards
+
+:::
+
+## Microcontroller / Firmware
+
+![](static/pro-micro.webp){ height=250 }
+
+::: notes
+
+This is the most common format for controllers
+
+There are lots of controllers that share the same pinout, not just clones
+
+:::
+
+## Microcontroller / Firmware
+
+![](static/nice-nano.png){ height=250 }
+
+::: notes
+
+This is a copy of the pro-micro format for wireless builds
+
+:::
+
+## Microcontroller / Firmware
+
+![](static/rp2040.webp){ height=250 }
+
+::: notes
+
+This is a chonky boy if you want lots of inputs
+
+:::
 
 ## Case
 
-![](static/hand-wired.jpg){ height=100% }
+![](static/hand-wired.jpg){ height=250 }
 
 # Shopping List
 
