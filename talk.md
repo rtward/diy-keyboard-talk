@@ -8,11 +8,11 @@
 
 ## How I learned to stop worrying and love the blinky lights
 
-![](static/hackers-keyboard.png){ width=100% }
+![](static/hackers-keyboard.png)
 
 # Why?
 
-![](static/but-why.jpg){ height=100% }
+![](static/but-why.jpg)
 
 ## Cheaper?
 
@@ -70,7 +70,7 @@ Your keybaord can do more than 1 press = 1 letter
 
 ## Layers
 
-![](static/layers.png){ width=100% }
+![](static/layers.png)
 
 ::: notes
 
@@ -80,7 +80,7 @@ Change your whole layout with one key
 
 ## It's Cool
 
-![](static/hackerman.webp){ height=100% }
+![](static/hackerman.webp)
 
 ::: notes
 
@@ -94,7 +94,7 @@ Lets be honest
 
 ## Design your Keyboard
 
-![](static/cosmos-screenshot.png){ height=100% }
+![](static/cosmos-screenshot.png)
 
 ## Design your Keyboard
 
@@ -104,7 +104,7 @@ Lets be honest
 
 ## Keycaps
 
-![](static/keycaps.webp){ height=100% }
+![](static/keycaps.webp)
 
 ::: notes
 
@@ -116,19 +116,19 @@ So many options
 
 ## Keycaps
 
-![](static/custom-keycap-1.webp){ height=100% }
+![](static/custom-keycap-1.webp)
 
 ## Keycaps
 
-![](static/custom-keycap-2.webp){ height=100% }
+![](static/custom-keycap-2.webp)
 
 ## Keycaps
 
-![](static/custom-keycap-3.jpg){ height=100% }
+![](static/custom-keycap-3.jpg)
 
 ## Switches
 
-![](static/mx-switch.webp){ height=100% }
+![](static/mx-switch.webp)
 
 ::: notes
 
@@ -138,7 +138,7 @@ Two basic options, MX or Choc
 
 ## Switches
 
-![](static/choc-switch.jpg){ height=100% }
+![](static/choc-switch.jpg)
 
 ::: notes
 
@@ -148,27 +148,27 @@ Choc are low-profile if you're trying to build a smaller board
 
 ## Switches
 
-![](static/cherry-switch-table.webp){ height=50% }
+![](static/cherry-switch-table.webp)
 
 ## Switches
 
-![](static/choc-switch-table.png){ height=50% }
+![](static/choc-switch-table.png)
 
 ## Switches
 
-![](static/cherry-switch-tree.webp){ height=50% }
+![](static/cherry-switch-tree.webp)
 
 ## Shield / PCB / Sockets / Hand Wired
 
-![](static/split-pcb.jpg){ height=50% }
+![](static/split-pcb.jpg)
 
 ## Shield / PCB / Sockets / Hand Wired
 
-![](static/skree-pcbs.webp){ height=50% }
+![](static/skree-pcbs.webp)
 
 ## Shield / PCB / Sockets / Hand Wired
 
-![](static/cherry-switch-pcb.png){ height=50% }
+![](static/cherry-switch-pcb.png)
 
 ## Shield / PCB / Sockets / Hand Wired
 
@@ -229,7 +229,7 @@ Choc are low-profile if you're trying to build a smaller board
 
 ## Microcontroller / Firmware
 
-![](static/pro-micro.webp){ height=250 }
+![](static/pro-micro.webp)
 
 ::: notes
 
@@ -241,7 +241,7 @@ There are lots of controllers that share the same pinout, not just clones
 
 ## Microcontroller / Firmware
 
-![](static/nice-nano.png){ height=250 }
+![](static/nice-nano.png)
 
 ::: notes
 
@@ -251,7 +251,7 @@ This is a copy of the pro-micro format for wireless builds
 
 ## Microcontroller / Firmware
 
-![](static/rp2040.webp){ height=250 }
+![](static/rp2040.webp)
 
 ::: notes
 
@@ -261,7 +261,7 @@ This is a chonky boy if you want lots of inputs
 
 ## Case
 
-![](static/3d-printers.webp){ height=250 }
+![](static/3d-printers.webp)
 
 # Building a Keyboard
 
@@ -280,7 +280,7 @@ This is a chonky boy if you want lots of inputs
 
 ## Assemble your board
 
-![](static/my-diy-board.jpg){ height=250 }
+![](static/my-diy-board.jpg)
 
 ::: notes
 
@@ -292,7 +292,7 @@ Might put switches in first, might do sockets first
 
 ## Wire your board
 
-![](static/matrix.png){ height=250 }
+![](static/matrix.png)
 
 ::: notes
 
@@ -308,13 +308,13 @@ hot swap vs soldered in
 
 ## Wire your board
 
-![](static/hand-wired.jpg){ height=250 }
+![](static/hand-wired.jpg)
 
 ## Setup your Firmware
 
 ## QMK
 
-![](static/qmk-logo.png){ height=250 }
+![](static/qmk-logo.png)
 
 ::: notes
 
@@ -330,11 +330,11 @@ vial etc.
 
 ## QMK
 
-![](static/qmk-configurator.png){ height=250 }
+![](static/qmk-configurator.png)
 
 ## QMK
 
-![](static/qmk-toolbox.png){ height=250 }
+![](static/qmk-toolbox.png)
 
 ## QMK
 
@@ -346,7 +346,7 @@ qmk flash -kb sofle -km default
 
 ## ZMK
 
-![](static/zmk-logo.jpg){ height=250 }
+![](static/zmk-logo.jpg)
 
 ::: notes
 
@@ -367,15 +367,15 @@ making rapid progress
 
 ## ZMK
 
-![](static/github-actions.png){ height=250 }
+![](static/github-actions.png)
 
 ## ZMK
 
-![](static/github-actions-2.png){ height=250 }
+![](static/github-actions-2.png)
 
 ## ZMK
 
-![](static/github-actions-3.png){ height=250 }
+![](static/github-actions-3.png)
 
 ## ZMK
 
@@ -386,7 +386,7 @@ cp my-keyboard.u2f /var/run/media/rtward/NICENANO
 
 ## ZMK
 
-![](static/zmk-configurator.png){ height=250 }
+![](static/zmk-configurator.png)
 
 # Contrats!
 
