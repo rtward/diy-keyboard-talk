@@ -8,11 +8,11 @@
 
 ## How I learned to stop worrying and love the blinky lights
 
-![](static/hackers-keyboard.png =200x300)
+![](static/hackers-keyboard.png){ width=100% }
 
 # Why?
 
-![](static/but-why.jpg)
+![](static/but-why.jpg){ width=100% }
 
 ## Cheaper?
 
