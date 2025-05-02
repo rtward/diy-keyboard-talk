@@ -263,7 +263,9 @@ This is a chonky boy if you want lots of inputs
 
 ![](static/3d-printers.webp){ height=250 }
 
-# Shopping List
+# Building a Keyboard
+
+## Shopping List
 
 ::: incremental
 
@@ -276,9 +278,21 @@ This is a chonky boy if you want lots of inputs
  
 :::
 
-# Building a Keyboard
+## Assemble your board
 
-## Plan your wiring
+![](static/my-diy-board.jpg){ height=250 }
+
+::: notes
+
+Depends on how you're putting it together
+
+Might put switches in first, might do sockets first
+
+:::
+
+## Wire your board
+
+![](static/matrix.png){ height=250 }
 
 ::: notes
 
@@ -292,41 +306,15 @@ hot swap vs soldered in
 
 :::
 
-## Plan your accessories
+## Wire your board
 
-::: notes
-
-make sure you know how many inputs you need
-
-check out com protocols like i2c or spi, which can be shared in some cases
-
-:::
-
-## Plan your controller
-
-::: notes
-
-wired or wireless is the big question
-
-also look at firmware compatibility
-
-also look at number and types of IO ports
-
-:::
-
-## PCB / Shield vs Hand Wiring
-
-::: notes
-
-shield = easier
-
-hand wiring = more customization
-
-:::
+![](static/hand-wired.jpg){ height=250 }
 
 ## Setup your Firmware
 
 ## QMK
+
+![](static/qmk-logo.png){ height=250 }
 
 ::: notes
 
@@ -339,6 +327,22 @@ lots of spinoffs
 vial etc.
 
 :::
+
+## QMK
+
+![](static/qmk-configurator.png){ height=250 }
+
+## QMK
+
+![](static/qmk-toolbox.png){ height=250 }
+
+## QMK
+
+```
+sudo pacman -S qmk
+qmk setup
+qmk flash -kb sofle -km default
+```
 
 ## ZMK
 
@@ -378,6 +382,7 @@ You can spend the next few months tweaking the keymap to be just what you want
  - https://www.littlekeyboards.com/
  - https://www.aliexpress.us/
  - https://ryanis.cool/cosmos/
+ - https://config.qmk.fm/
 
 # Questions?
 
