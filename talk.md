@@ -32,12 +32,6 @@ no
 
 maybe?
 
-## More Fun?
-
-. . .
-
-definitely
-
 ## Because
 
 ## RSI
@@ -47,6 +41,8 @@ definitely
 ::: notes
 
 More an argument for ergo
+
+My story
 
 :::
 
@@ -60,9 +56,11 @@ Want to try out DVORAK or Colemak or Workman?
 
 ## Macros
 
+<div align="center">
 ```
 (•_•) ( •_•)>⌐■-■ (⌐■_■)
 ```
+</div>
 
 ::: notes
 
@@ -92,11 +90,27 @@ Lets be honest
 
 # Okay I'm Convinced
 
-# Parts of a Keyboard
+# How do I do it?
+
+## Design your Keyboard
+
+![](static/cosmos-screenshot.png){ height=100% }
+
+Cosmos - https://ryanis.cool/cosmos/
+
+## Design your Keyboard
+
+![](static/keyboard%20drawing.jpg)
+
+# Collect your parts
+
+ - https://skree.us/
+ - https://www.littlekeyboards.com/
+ - https://www.aliexpress.us/
 
 ## Keycaps
 
-![](static/keycaps.webp)
+![](static/keycaps.webp){ height=100% }
 
 ::: notes
 
@@ -106,50 +120,87 @@ So many options
 
 :::
 
+## Keycaps
+
+![](static/custom-keycap-1.webp){ height=100% }
+
+## Keycaps
+
+![](static/custom-keycap-2.webp){ height=100% }
+
+## Keycaps
+
+![](static/custom-keycap-3.jpg){ height=100% }
+
 ## Switches
 
-![](static/mx-switch.webp)
-![](static/choc-switch.jpg)
+![](static/mx-switch.webp){ height=100% }
 
 ::: notes
 
 Two basic options, MX or Choc
 
-Lots of other options though.
-
 :::
 
-## Key Matrix
+## Switches
 
-![](static/matrix.png)
+![](static/choc-switch.jpg){ height=100% }
 
 ::: notes
 
-Columns are powered one at a time and the rows are all read at once
-
-Done hundreds of times per second
+Choc are low-profile if you're trying to build a smaller board
 
 :::
 
-## Shield
+## Switches
+
+![](static/cherry-switch-table.webp){ height=100% }
+
+## Switches
+
+![](static/choc-switch-table.png){ height=100% }
+
+## Switches
+
+![](static/cherry-switch-tree.webp){ height=100% }
+
+## Shield / PCB / Sockets / Hand Wired
 
 ![](static/split-pcb.jpg)
 
-::: notes
+## Shield / PCB / Sockets / Hand Wired
 
-If you're hand wiring, then this may not apply, but for premade PCBs you can select an existing wiring diagram.
+![](static/skree-pcbs.webp)
 
-:::
+## Shield / PCB / Sockets / Hand Wired
+
+![](static/cherry-switch-pcb.png)
+
+## Shield / PCB / Sockets / Hand Wired
+
+![](static/hand-wired.jpg)
 
 ## Accessories
 
-- Encoders
-- Trackballs / Trackpads / Pointers
-- Screens
-- RGB
-- ???
+![](static/encocder.webp)
 
-## Microcontroller
+## Accessories
+
+![](static/trackball.webp)
+
+## Accessories
+
+![](static/oled.webp)
+
+## Accessories
+
+![](static/rgb.jpg)
+
+## Accessories
+
+![](static/kitchen-sink.jpg)
+
+## Microcontroller / Firmware
 
 - Wired or Wireless
 - How many inputs?
@@ -157,32 +208,29 @@ If you're hand wiring, then this may not apply, but for premade PCBs you can sel
 - Pro Micro is the most common format
 - Nice!Nano for Wireless
 
-## Firmware
-
 - Wired or Wireless
 - ZMK for Wireless
 - QMK for Wired
 - Lots of offshoots of QMK
 
+## Case
+
+![](static/hand-wired.jpg){ height=100% }
+
+# Shopping List
+
+::: incremental
+
+ - [x] Keycaps
+ - [x] Switches
+ - [x] PCB
+ - [x] Accessories
+ - [x] Microcontroller
+ - [x] Case
+ 
+ :::
+
 # Building a Keyboard
-
-## Design your Keyboard
-
-Cosmos
-
-https://ryanis.cool/cosmos/
-
-## Design your Keyboard
-
-![](static/keyboard%20drawing.jpg)
-
-## Pick you switches
-
-::: notes
-
-might not be important if you're doing hot swaps
-
-:::
 
 ## Plan your wiring
 
